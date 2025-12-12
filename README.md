@@ -1,5 +1,5 @@
 # CAT
-The Customer Accceleration Team (CAT), part of the Microsoft Customer Advisory Team and product engineering. We work closely with marquee enterprise customers on key initiatives to accelerate their success with Microsoft Agents. We are a diverse group of technical architects, community managers, program managers, developers, and content creators, located all over the world, all sharing a deep passion for technology. 
+The Customer Agent Team (CAT), part of the Microsoft Customer Advisory Team and product engineering. We work closely with marquee enterprise customers on key initiatives to accelerate their success with Microsoft Agents. We are a diverse group of technical architects, community managers, program managers, developers, and content creators, located all over the world, all sharing a deep passion for technology.
 
 Our charter includes engaging with key enterprise customers and guiding their platform implementation to success, sharing with the world what we learn from our engagements with customers in guidance and tools, and celebrating the success of our customers via compelling customer stories.
 
